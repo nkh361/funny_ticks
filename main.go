@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/nkh361/funny_ticks/pkg/User/User"
+	uo "github.com/nkh361/funny_ticks/pkg/User/user_op"
 )
 
 func main() {
-	return User.message()
+	return uo.message()
 }
