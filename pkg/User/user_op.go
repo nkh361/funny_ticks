@@ -1,5 +1,9 @@
 package User
 
-func message() string {
-	return "Hello!!"
+import (
+	"fmt"
+)
+
+func message() {
+	fmt.Println("HellO!!")
 }

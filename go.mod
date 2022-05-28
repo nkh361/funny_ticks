@@ -1,3 +1,3 @@
-module github.com/nkh361/funky_ticks
+module github.com/nkh361/funny_ticks
 
 go 1.18
