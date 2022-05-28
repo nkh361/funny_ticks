@@ -1,5 +1,5 @@
 package User
 
-func message() str {
+func message() string {
 	return "Hello!!"
 }
